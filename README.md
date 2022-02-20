@@ -20,7 +20,7 @@ Program to find the gcd of two number using function.
 Developed by: Lathika Sunder 
 RegisterNumber: 212221230054 
 */
-```
+
 def gcd():
     n1=int(input())
     n2=int(input())
